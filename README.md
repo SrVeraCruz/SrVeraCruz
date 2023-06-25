@@ -4,8 +4,8 @@
 <!-- Skyline -->
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=SrVeraCruz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Stats for SrVeraCruz" width="450">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=SrVeraCruz&theme=dracula&layout=compact" width="450">
+  <img src="https://github-readme-stats.vercel.app/api?username=SrVeraCruz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Stats for SrVeraCruz" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=SrVeraCruz&theme=dracula&layout=compact" width="400">
 </div>
 
 ##
