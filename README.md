@@ -1,10 +1,11 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SrVeraCruz.SrVeraCruz" />
 
-<br/>
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vera+Dúdú!;" />
 
 <h3 align="center">A passionate software developer in this world of programation!</h3>
+
+<br/>
 
 <div align="center">
  
@@ -33,7 +34,6 @@
 
  <hr/>
 
-##
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div style="display: inline_block"><br>
@@ -52,16 +52,16 @@
   <img align="center" alt="Vera-SASS" height="30" width="40" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Vera-Tailwind" height="30" width="40" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
 </div>
-
-##
+<br/>
+<hr/>
 
 <h2 align="center">🐍 My Contributions 🐍</h2>
 <br>
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/SrVeraCruz/SrVeraCruz/blob/output/github-contribution-grid-snake.svg)
-
-##
+<br/><br/><br/>
+<hr/>
 
 <!-- Skyline -->
 
@@ -74,10 +74,13 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=SrVeraCruz&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/>
+<br/><br/>
 
 <hr/>
 
-##
+<br/>
+
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
+
+<br/>
