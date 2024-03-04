@@ -25,10 +25,6 @@
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrVeraCruz&size_weight=0.5&count_weight=0.5)](https://github.com/SrVeraCruz/github-readme-stats)
-
-##
-
 ![](https://img.shields.io/badge/OS-LINUX-informational?style=plastic&logo=#FCC624&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-WINDOWS-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-c++-informational?style=plastic&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
@@ -38,6 +34,7 @@
 
 ##
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vera-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Vera-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
