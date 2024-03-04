@@ -1,9 +1,15 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SrVeraCruz.SrVeraCruz" />
+
 <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vera+Dúdú!;" />
-## I'm Vera Cruz Dudu, a contributor in this world of programming!
+
+<h3 align="center">A passionate software developer in this world of programation!</h3>
+
+<br/>
 
 <!-- Skyline -->
 
 <div>
+  <h2 align="center">⚡ Stats ⚡</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=SrVeraCruz&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&layout=compact" alt="GitHub Stats for SrVeraCruz" width="400" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=SrVeraCruz&theme=dracula&layout=compact" width="400" height="150">
 </div>
@@ -51,9 +57,8 @@
 ##
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
 
-##
-
-### Watch my contribution graph get eaten by the snake 🐍
+#<h2 align="center">🐍 My Contributions 🐍</h2>
+<br>
 
 <!-- platane/snk works, it just puts it on a new branch -->
 ![snake gif](https://github.com/SrVeraCruz/SrVeraCruz/blob/output/github-contribution-grid-snake.svg)
