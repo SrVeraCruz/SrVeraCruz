@@ -11,7 +11,7 @@
  
  🔭 I’m currently studying **Computation Science**
  
- 🌱 I’m currently learning **Firebase, TypeScript, VueJs**
+ 🌱 I’m currently learning **Angolar, TypeScript, VueJs**
 
 💬 Ask me about **anything [here](https://github.com/SrVeraCruz/SrVeraCruz/issues)**
 
