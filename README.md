@@ -11,11 +11,11 @@
  
  🔭 I’m currently studying **Computation Science**
  
- 🌱 I’m currently learning **Firebase, TypeScript, NextJs**
+ 🌱 I’m currently learning **Firebase, TypeScript, VueJs**
 
 💬 Ask me about **anything [here](https://github.com/SrVeraCruz/SrVeraCruz/issues)**
 
-⚡ Fun fact **The language name C because it succeeds another languagecalled B.**
+⚡ Fun fact **The language name C because it succeeds another language called B.**
 
 </div>
  
