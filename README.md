@@ -54,6 +54,8 @@
   <img align="center" alt="Vera-firebase" height="30" width="40" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg">
   <img align="center" alt="Vera-SASS" height="30" width="40" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Vera-Tailwind" height="30" width="40" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
+  <img align="center" alt="Vera-FramerMotion" height="30" width="40" color="#fff" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg">
+ 
 </div>
 <br/>
 <hr/>
