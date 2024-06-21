@@ -1,6 +1,5 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SrVeraCruz.SrVeraCruz" />
 
-
 <img width="100%" src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=400&height=40&duration=4000&lines=Hi+There!+👋;+I'm+Vera+Dúdú!;" />
 
 <h3 align="center">A passionate software developer in this world of programation!</h3>
@@ -33,7 +32,6 @@
 </div>
 
  <hr/>
-
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <div align="center" style="display: inline_block"><br>
@@ -84,7 +82,6 @@
 <hr/>
 
 <br/>
-
 
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=mishmanners&theme=radical)](https://github.com/ryo-ma/github-profile-trophy) ONLY if I want to show the trophy things here -->
 
