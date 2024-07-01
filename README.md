@@ -10,7 +10,7 @@
  
  🔭 I’m currently studying **Computation Science**
  
- 🌱 I’m currently learning **TypeScript, Prisma**
+ 🌱 I’m currently learning **React Native, Prisma**
 
 💬 Ask me about **anything [here](https://github.com/SrVeraCruz/SrVeraCruz/issues)**
 
