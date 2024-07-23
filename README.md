@@ -10,7 +10,7 @@
  
  🔭 I’m currently studying **Computation Science**
  
- 🌱 I’m currently learning **React Native, Prisma**
+ 🌱 I’m currently learning **Kotlin, Socket.io, Docker**
 
 💬 Ask me about **anything [here](https://github.com/SrVeraCruz/SrVeraCruz/issues)**
 
